@@ -1,4 +1,7 @@
-Problem Statement
+Problem Statement:
+
+
+
 The problem at hand involves predicting future sales for product and service-based businesses. With the dynamic nature of the market, businesses need to anticipate sales figures based on various factors, including advertising expenses, audience targeting, and the choice of advertising platforms.
 
 Challenges:
